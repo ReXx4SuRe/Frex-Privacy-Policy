@@ -2,7 +2,7 @@
 
 Privacy Policy for Frex Discord Bot
 
-At Frex, accessible from https://discord.com/api/oauth2/authorize?client_id=1248663013939220611&permissions=554104613249&scope=applications.commands%20bot, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Frex and how we use it.
+At Frex, accessible from https://discord.com/api/oauth2/authorize?client_id=1248663013939220611&permissions=0&scope=applications.commands%20bot, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Frex and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
