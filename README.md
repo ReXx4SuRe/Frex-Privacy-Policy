@@ -1,18 +1,18 @@
-# Frex-Privacy-Policy
+# Aura 1-Privacy-Policy
 
-Privacy Policy for Frex Discord Bot
+Privacy Policy for Aura 1 Discord Bot
 
-At Frex, accessible from https://discord.com/oauth2/authorize?client_id=1248663013939220611&permissions=8&integration_type=0&scope=bot, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Frex and how we use it.
+At Aura 1, accessible from https://discord.com/oauth2/authorize?client_id=1239096775311228999&permissions=8&integration_type=0&scope=bot, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Aura 1 and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
 Storage of User IDs:
 
-At Frex, we store user IDs in our database to provide a personalized and enhanced user experience. This information helps us to deliver tailored services, such as tracking individual user progress, managing inventories, and ensuring a seamless interaction within our bot.
+At Aura 1, we store user IDs in our database to provide a personalized and enhanced user experience. This information helps us to deliver tailored services, such as tracking individual user progress, managing inventories, and ensuring a seamless interaction within our bot.
 
 Online Privacy Policy Only
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our bot with regards to the information that they shared and/or collect in Frex. This policy is not applicable to any information collected offline or via channels other than this bot.
+This Privacy Policy applies only to our online activities and is valid for visitors to our bot with regards to the information that they shared and/or collect in Aura 1. This policy is not applicable to any information collected offline or via channels other than this bot.
 
 Consent
 
